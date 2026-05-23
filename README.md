@@ -18,3 +18,6 @@ cmake --build .
 ./log_parser <путь_к_файлу> <запрос> [выходной_файл] [потоки] [кусок_мб]
 Пример:
 ./log_parser server.log "ERROR" errors.log 8 64
+
+Пожалуйста! посмотрите мой видео-обзор 
+на данную прогу: https://streamable.com/erjbrv
